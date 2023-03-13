@@ -23,3 +23,4 @@ int a = int.Parse(ReadLine());
 WriteLine("Введите число В:");
 int b = int.Parse(ReadLine());
 WriteLine($"A={a}; B={b} -> {GetPow(a, b)}");
+
